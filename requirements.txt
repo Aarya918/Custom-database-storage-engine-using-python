@@ -1,0 +1,4 @@
+pandas>=2.0
+matplotlib>=3.7
+pytest>=7.0      # optional: the tests are plain unittest and also run with `python -m unittest`
+# plyvel>=1.5    # optional: LevelDB baseline for benchmark.py (needs the LevelDB C++ library)
